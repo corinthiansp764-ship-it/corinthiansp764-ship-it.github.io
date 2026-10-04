@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.corinthiansp764_ship_it.twa",
+      "sha256_cert_fingerprints": [
+        "00:FA:65:C2:FF:8A:47:A0:7A:42:E1:07:39:10:2C:DB:71:8A:10:EE:DD:D0:5C:58:E6:23:AA:7B:D9:E9:7A:26"
+      ]
+    }
+  }
+]
